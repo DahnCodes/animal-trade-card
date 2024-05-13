@@ -1,0 +1,52 @@
+body{
+    background-color: #ffc8dd;
+    font-family: "Montserrat", sans-serif;
+}
+
+.card1{
+    background-color: white;
+    padding: 20px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.2);
+}
+
+.card2{
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    width: 200px; 
+    border-radius: 10px;
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.2);
+}
+
+.card3{
+    background-color: white;
+    padding: 20px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.2);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+.btn{
+    background-color: #ffafcc;
+color: white;
+padding: 10px;
+border: none;
+width: 200px;
+border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: white;
+    color: #ffafcc;
+    border: 1px solid #ffafcc;
+}
